@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.card{
+    /* background-color:gainsboro; */
+
+    background-color:lightgray;
+    margin: 5px;
+    padding: 2px;
+    align-items:center ;
+}
+
+.bg_primary{
+    background-color:lightgray;
+}
